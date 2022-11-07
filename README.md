@@ -1,10 +1,7 @@
 ## DevOps theory by levels: Junior, Middle, Senior!
     Well-structured and well explained.
-## Junior Topic in progress! 
-    Middle and Senior in line.
 ## If some topics are untouched or there are good questions to consider, then you can fork and propose changes  
     I hope everyone likes it and finds something interesting for themselves.
-
 
 <details>
   <summary> Важная кнопка </summary>
