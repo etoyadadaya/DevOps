@@ -5,6 +5,10 @@
 ## If some topics are untouched or there are good questions to consider, then you can fork and propose changes  
     I hope everyone likes it and finds something interesting for themselves.
 
+## Отличный видеокурс:
+
+https://www.youtube.com/watch?v=rKCu-tfL730&list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc
+
 <details>
   <summary> Важная кнопка </summary>
        Не такая уж и важная
